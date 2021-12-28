@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "empleados-27efa": {
+      "hosting": {
+        "empleados": [
+          "empleados-27efa"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "empleados-27efa"
+  }
+}
